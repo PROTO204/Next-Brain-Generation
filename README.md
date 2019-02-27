@@ -1,9 +1,15 @@
 # Next-Brain-Generation
-Description &amp; Code needed for the Hackathon - Next Brain Generation 
+Description &amp; Code needed for the PROTOBOX Sprint 
 
 **DESCRIPTION**
 
 Du 16 au 18 mars 2018 au PROTO204, le hackathon Next Brain Generation rassemble une centaine de jeunes talents de Paris-Saclay (HEC, CentraleSupélec, Upsud…) pour développer leur objet connecté sur la e-Santé, la Smart City et les mobilités. Les lauréats iront pitcher leur prototype devant les 8000 participants de l’IoT World le 22 mars au Palais des Congrès.
+
+**CONTRIBUTORS**
+
+Ronan JAMES - co-founder & manager at PROTO204
+Brice POIRIER - Fabmanager at PROTO204
+Alexande HARLY - Senior IoT developper - Freelance 
 
 
 **INSPRITATION FOR YOUR PROJECT**

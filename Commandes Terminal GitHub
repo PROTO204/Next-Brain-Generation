@@ -1,0 +1,10 @@
+Cd			root
+cd /c			acceder c
+ls			lister fichiers
+git config --global user.name “bla”
+git config --global user.email “bla”
+git clone (url)
+git add *******.***
+git status
+git commit -m “comment” filename…
+git push  -u origin master

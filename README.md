@@ -3,12 +3,24 @@ Description &amp; Code needed for the PROTOBOX Sprint
 
 **DESCRIPTION**
 
-Du 16 au 18 mars 2018 au PROTO204, le hackathon Next Brain Generation rassemble une centaine de jeunes talents de Paris-Saclay (HEC, CentraleSupélec, Upsud…) pour développer leur objet connecté sur la e-Santé, la Smart City et les mobilités. Les lauréats iront pitcher leur prototype devant les 8000 participants de l’IoT World le 22 mars au Palais des Congrès.
+The PROTO204 (innovation Lab in Paris-Saclay campus) has organised acceleration programs & hackathons ("Urban Moves" for Nokia 2017, "Next Brain Generation" for IoT World Congress - 2018) to develop new services on connected objects. After this two years experience, we have decided to design a fully operationnal sandbox to prototype seamlessly an idea in the Internet Of Things (IoT) : the PROTOBOX. The PROTOBOX easily build for pedagogical uses or any low cost projects. All nformations to build and operate with the PROTOBOX is here. 
+
+In 2019, we will organise two Sprint with 1/ 16 student of the Master 2 SETI (Université Paris-Saclay), 2/ 17 students of Master 1 HCI (Université Paris-Saclay).  
+
+This repository gather all the pedagogical materials to :
+
+1/ Get Inspiration and Find an idea
+
+2/ Learn the basis of the developer environment (Python, Raspberry, Git, SSH...) 
+
+3/ Identify powerfull librairy to get the most of the PROTOBOX
 
 **CONTRIBUTORS**
 
-Ronan JAMES - co-founder & manager at PROTO204
+Ronan JAMES - co-founder & manager at PROTO204 - @ronanjames
+
 Brice POIRIER - Fabmanager at PROTO204
+
 Alexande HARLY - Senior IoT developper - Freelance 
 
 

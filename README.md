@@ -7,6 +7,7 @@ Du 16 au 18 mars 2018 au PROTO204, le hackathon Next Brain Generation rassemble 
 
 
 **INSPRITATION FOR YOUR PROJECT**
+
 Here’s a few addresses to get your imagination running :
 https://www.instructables.com/technology/raspberry-pi
 https://www.instructables.com/id/Raspberry-Pi-Projects
@@ -15,16 +16,19 @@ https://electronicsforu.com/iot-projects-ideas
 https://www.digikey.com/en/maker/blogs/2018/14-helpful-raspberry-pi-tutorials
 
 **GETTING STARTED WITH RASPBERRY PI**
+
 A short class to get familiar with the object :
 https://www.instructables.com/class/Raspberry-Pi-Class
 
 **LEARN TO USE SENSORS CONTROL** 
+
 If you are going to use sensors, you will need to be familiar with I2C as well. Hackster and Sparkfun are great websites for classes, tutorials, ideas and help :
 https://www.hackster.io/projects/tags/i2c
 https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all
 https://www.instructables.com/id/Raspberry-Pi-I2C-Python
 
 **GO PYTHON** 
+
 For those of you who can’t wait to mess with Python :
 https://maker.pro/raspberry-pi/tutorial/how-to-make-your-first-python-programs-for-raspberry-pi
 https://maker.pro/raspberry-pi/tutorial/how-to-use-the-raspberry-pi-camera-to-send-emails
@@ -33,18 +37,22 @@ https://www.raspberrypi.org/documentation/usage/python
 GitHub : https://github.com/Akuli/python-tutorial/blob/7f3972c8148897f569254caa49e74b5832814bc3/basics/README.md
 
 **LIBRAIRIES**
+
 You can benefit a lot from all what developers have already create and made available for you on GitHub : 
 
 **Text emotion analysis** 
+
 Librairie : https://textblob.readthedocs.io/en/dev/
 
 **Object recognition**
+
 Github : https://github.com/OlafenwaMoses/ImageAI
 Site web : https://imageai-fr.readthedocs.io/en/latest/
 Tutorial français (80 objets du quotidien déjà entrainés) : https://imageai-fr.readthedocs.io/en/latest/detection/index.html
  
  
 **Facial expression recognition**
+
 https://github.com/topics/facial-expression-recognition?l=python
 https://github.com/thoughtworksarts/EmoPy
 

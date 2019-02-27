@@ -1,5 +1,5 @@
 # Next-Brain-Generation
-Description &amp; Code needed for the PROTOBOX Sprint 
+Description &amp; pedagogical material and code needed for the PROTOBOX Sprint 
 
 **DESCRIPTION**
 

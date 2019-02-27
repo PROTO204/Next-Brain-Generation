@@ -15,6 +15,7 @@ This repository gather all the pedagogical materials to :
 
 3/ Identify powerfull librairy to get the most of the PROTOBOX
 
+
 **CONTRIBUTORS**
 
 Ronan JAMES - co-founder & manager at PROTO204 - @ronanjames
@@ -38,10 +39,12 @@ https://electronicsforu.com/iot-projects-ideas
 
 https://www.digikey.com/en/maker/blogs/2018/14-helpful-raspberry-pi-tutorials
 
+
 **GETTING STARTED WITH RASPBERRY PI**
 
 A short class to get familiar with the object :
 https://www.instructables.com/class/Raspberry-Pi-Class
+
 
 **LEARN TO USE SENSORS CONTROL** 
 
@@ -52,6 +55,7 @@ https://www.hackster.io/projects/tags/i2c
 https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all
 
 https://www.instructables.com/id/Raspberry-Pi-I2C-Python
+
 
 **GO PYTHON** 
 
@@ -67,13 +71,16 @@ https://www.raspberrypi.org/documentation/usage/python
 
 GitHub : https://github.com/Akuli/python-tutorial/blob/7f3972c8148897f569254caa49e74b5832814bc3/basics/README.md
 
+
 **LIBRAIRIES**
 
 You can benefit a lot from all what developers have already create and made available for you on GitHub : 
 
+
 **Text emotion analysis** 
 
 Librairie : https://textblob.readthedocs.io/en/dev/
+
 
 **Object recognition**
 
